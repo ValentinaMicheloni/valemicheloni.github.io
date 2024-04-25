@@ -10,7 +10,7 @@
     </header>
     <main>
         <div class="left-block">
-            <img src="c:\Users\Usuario\Downloads\Fotos Personales.jpeg" alt="Foto Personal">
+            <img src="Fotos Personales" alt="Foto Personal">
         </div>
         <div class="right-block">
             <p><strong>Nombre y Apellido:</strong> Valentina Micheloni</p>
@@ -24,67 +24,11 @@
         </div>
     </main>
     <footer>
-        <img src="c:\Users\Usuario\Downloads\Logotipo Uade.jpeg" width="150px" height="100px" alt="Logo UADE" >
+        <img src="Logotipo UADE" width="150px" height="100px" alt="Logo UADE" >
     </footer>
 
 
 <span id="PING_CONTENT_AUTOPLAY_DETECTION" style="display: none;"></span></body></html>
 
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
- 
-body {
-    front-family: "Poppins", sans-serif;
-    margin: 0;
-    padding: 0;
-}
 
-header {
-    text-align: center;
-    text-transform: uppercase;
-    background-color: darksalmon;
-    color: black;
-    ;
-    padding: 20 px 0;
-}
-
-main {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 21px;
-}
-
-.left-block {
-    flex: 1;
-    text-align: center;
-}
-
-.left-block img {
-    width: 150px;
-    height: auto;
-    margin-bottom: 10px;
-}
-
-.right-block { 
-    flex: 2;
-    padding: 0 20px;
-}
-
-.right-block p {
-    margin-bottom: 10px;
-}
-
-a {
-    color: black;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-footer { 
-    text-align: center;
-    padding: 16px 0;
-    background-color: darksalmon;
-}  
