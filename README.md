@@ -25,7 +25,7 @@
     <footer>
         <img src="Logotipo Uade.jpeg" width="150px" height="100px" alt="Logo UADE" >
     </footer>
-</body>
+
 
 <span id="PING_CONTENT_AUTOPLAY_DETECTION" style="display: none;"></span></body></html>
 
