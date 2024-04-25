@@ -10,7 +10,7 @@
     </header>
     <main>
         <div class="left-block">
-            <img src="![Fotos Personales](https://github.com/ValentinaMicheloni/valemicheloni.github.io/assets/164268767/872392f6-df3d-4337-aaf4-e82b64b386be)" alt="Foto Personal">
+            <img src="Fotos Personales.jpeg" alt="Foto Personal">
         </div>
         <div class="right-block">
             <p><strong>Nombre y Apellido:</strong> Valentina Micheloni</p>
