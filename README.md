@@ -10,7 +10,7 @@
     </header>
     <main>
         <div class="left-block">
-            <img src="Fotos Personales" alt="Foto Personal">
+            <img src="![Fotos Personales](https://github.com/ValentinaMicheloni/valemicheloni.github.io/assets/164268767/872392f6-df3d-4337-aaf4-e82b64b386be)" alt="Foto Personal">
         </div>
         <div class="right-block">
             <p><strong>Nombre y Apellido:</strong> Valentina Micheloni</p>
@@ -24,7 +24,7 @@
         </div>
     </main>
     <footer>
-        <img src="Logotipo UADE" width="150px" height="100px" alt="Logo UADE" >
+        <img src="![Logotipo Uade](https://github.com/ValentinaMicheloni/valemicheloni.github.io/assets/164268767/577737aa-c2c5-44c5-9bfb-f18f9401ea40)" width="150px" height="100px" alt="Logo UADE" >
     </footer>
 
 
