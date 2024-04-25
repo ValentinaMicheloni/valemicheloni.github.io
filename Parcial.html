@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ficha Personal</title>
-    <link rel="stylesheet" href="c:\Users\Usuario\OneDrive\Documentos\UADE\Diseño y desarrollo web\Styles.css.css">
+    <link rel="stylesheet" href="Styles.css.css">
 </head>
 <body>
     <header>
