@@ -24,7 +24,7 @@
         </div>
     </main>
     <footer>
-        <img src="![Logotipo Uade](https://github.com/ValentinaMicheloni/valemicheloni.github.io/assets/164268767/577737aa-c2c5-44c5-9bfb-f18f9401ea40)" width="150px" height="100px" alt="Logo UADE" >
+        <img src="Logotipo Uade.jpeg" width="150px" height="100px" alt="Logo UADE" >
     </footer>
 
 
